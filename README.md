@@ -33,7 +33,7 @@ npub14f8usejl26twx0dhuxjh9cas7keav9vr0v8nvtwtrjqx3vycc76qqh9nsy
 Sending: http://0.0.0.0:3000/convert_key_from/npub_bech32/npub14f8usejl26twx0dhuxjh9cas7keav9vr0v8nvtwtrjqx3vycc76qqh9nsy
 aa4fc8665f5696e33db7e1a572e3b0f5b3d615837b0f362dcb1c8068b098c7b4
 ```
-### Stoppig Flask
+### Stopping Flask
 ```
 sudo netstat -tulnp | grep :3000
 tcp        0      0 0.0.0.0:3000            0.0.0.0:*               LISTEN      1248569/python3
